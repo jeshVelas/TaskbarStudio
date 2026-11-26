@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/NativeTrial/NativeTrial.csproj" />
+  <Project Path="src/FloatingDock/FloatingDock.csproj" />
+  <Project Path="tests/Phase0.Tests/Phase0.Tests.csproj" />
+</Solution>

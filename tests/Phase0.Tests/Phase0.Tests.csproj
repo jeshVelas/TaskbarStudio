@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../../src/NativeTrial/Trial.cs" Link="Trial.cs" />
+    <Compile Include="../../src/NativeTrial/ShellTaskbar.cs" Link="ShellTaskbar.cs" />
+    <Compile Include="../../src/FloatingDock/DockPlacement.cs" Link="DockPlacement.cs" />
+  </ItemGroup>
+</Project>
