@@ -1,5 +1,11 @@
 <Solution>
   <Project Path="src/NativeTrial/NativeTrial.csproj" />
   <Project Path="src/FloatingDock/FloatingDock.csproj" />
+  <Project Path="src/Personalization/Personalization.csproj" />
+  <Project Path="src/WindowTracking/WindowTracking.csproj" />
+  <Project Path="src/WindowActions/WindowActions.csproj" />
+  <Project Path="src/AppBarPrototype/AppBarPrototype.csproj" />
+  <Project Path="tests/Phase1.Tests/Phase1.Tests.csproj" />
+  <Project Path="tests/WindowTracking.Diagnostic/WindowTracking.Diagnostic.csproj" />
   <Project Path="tests/Phase0.Tests/Phase0.Tests.csproj" />
 </Solution>

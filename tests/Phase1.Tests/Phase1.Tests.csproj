@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../DesktopProbe.cs" Link="DesktopProbe.cs" />
+    <ProjectReference Include="../../src/Personalization/Personalization.csproj" />
+    <ProjectReference Include="../../src/FloatingDock/FloatingDock.csproj" />
+    <ProjectReference Include="../../src/WindowTracking/WindowTracking.csproj" />
+    <ProjectReference Include="../../src/WindowActions/WindowActions.csproj" />
+    <ProjectReference Include="../../src/AppBarPrototype/AppBarPrototype.csproj" />
+  </ItemGroup>
+</Project>

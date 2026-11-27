@@ -4,4 +4,10 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../Personalization/Personalization.csproj" />
+    <ProjectReference Include="../WindowTracking/WindowTracking.csproj" />
+    <ProjectReference Include="../WindowActions/WindowActions.csproj" />
+    <InternalsVisibleTo Include="Phase1.Tests" />
+  </ItemGroup>
 </Project>

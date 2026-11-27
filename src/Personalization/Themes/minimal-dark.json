@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "id": "minimal-dark",
+  "name": "Minimal Dark",
+  "colors": { "background": "#191C20", "button": "#272C32", "text": "#F4F5F7", "border": "#69737F" },
+  "layout": { "iconSize": 28, "buttonWidth": 84, "padding": 6, "gap": 6, "bottomMargin": 10 }
+}

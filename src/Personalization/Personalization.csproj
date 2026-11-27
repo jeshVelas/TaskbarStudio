@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <EmbeddedResource Include="Themes/*.json" LogicalName="Themes.%(Filename).json" />
+  </ItemGroup>
+</Project>

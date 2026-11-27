@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>AppBarPrototype</AssemblyName>
+    <RootNamespace>AppBarPrototype</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup><InternalsVisibleTo Include="Phase1.Tests" /></ItemGroup>
+</Project>

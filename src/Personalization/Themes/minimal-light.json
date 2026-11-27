@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "id": "minimal-light",
+  "name": "Minimal Light",
+  "colors": { "background": "#EDF0F2", "button": "#FFFFFF", "text": "#18212B", "border": "#647587" },
+  "layout": { "iconSize": 24, "buttonWidth": 80, "padding": 4, "gap": 4, "bottomMargin": 8 }
+}
